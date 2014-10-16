@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[aki:home|Door43 (aki)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-aki|d43-aki repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-aki/archive/master.zip|d43-aki.zip]]
+
+**Recent Changes**
+{{changes>ns = aki}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/aki|Ethnologue data]]
+
